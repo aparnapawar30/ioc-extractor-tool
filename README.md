@@ -28,3 +28,9 @@ python extractor.py
 
 ## Disclaimer
 This project is intended for educational and authorized cybersecurity research purposes only.
+
+## Screenshots
+
+### Tool Output
+
+![Tool Output](screenshots/tool_output.png)
