@@ -33,4 +33,4 @@ This project is intended for educational and authorized cybersecurity research p
 
 ### Tool Output
 
-![Tool Output](screenshots/tool-output.png)
+![Tool Output](tool-output.png)
