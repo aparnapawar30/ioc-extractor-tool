@@ -8,4 +8,4 @@ Detected IP:
 192.168.1.10
 
 Possible malware hash:
-a3f5c2f7e98b1234abcd5678efgh9999
+9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
