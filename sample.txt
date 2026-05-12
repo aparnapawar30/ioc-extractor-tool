@@ -1,0 +1,11 @@
+User received suspicious email from:
+security-alert@paypal-secure-login.com
+
+Suspicious URL:
+http://paypal-account-update-login.com
+
+Detected IP:
+192.168.1.10
+
+Possible malware hash:
+a3f5c2f7e98b1234abcd5678efgh9999
